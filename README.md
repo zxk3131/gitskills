@@ -1,2 +1,2 @@
 # gitskills
-Creating & simple
+Creating AND simple.
